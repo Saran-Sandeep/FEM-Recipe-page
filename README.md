@@ -22,8 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Solution URL here]
-- Live Site URL: [Live site URL here]
+- Solution URL: [Solution URL here](https://github.com/Saran-Sandeep/FEM-Recipe-page)
+- Live Site URL: [Live site URL here](https://fem-recipe-page-weld.vercel.app/)
 
 ## My process
 
